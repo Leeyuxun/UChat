@@ -1,0 +1,13 @@
+certifi==2020.6.20
+chardet==3.0.4
+crypto==1.4.1
+filetype==1.0.7
+idna==2.10
+Naked==0.1.31
+Pillow==7.2.0
+pycryptodome==3.9.8
+pycryptodomex==3.9.8
+PyYAML==5.3.1
+requests==2.24.0
+shellescape==3.8.1
+urllib3==1.25.9
